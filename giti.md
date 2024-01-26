@@ -124,3 +124,5 @@ git checkout <имя_ветки>
 ```sh
 git branch -d <имя_ветки>
 ```
+
+# Работа с GitHub
